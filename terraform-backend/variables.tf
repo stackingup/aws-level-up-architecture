@@ -3,9 +3,9 @@ variable "region" {
 }
 
 variable "account-company-users" {
-  default = ""
+  default = "111111111111"
 }
 
 variable "account-company-test" {
-  default = ""
+  default = "111111111111"
 }
